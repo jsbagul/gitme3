@@ -7,3 +7,4 @@ git is such good element of version control system
 this is change
 
 i make changes from local repository
+i make changes from remote
