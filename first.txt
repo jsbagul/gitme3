@@ -6,4 +6,4 @@ git is such good element of version control system
 
 this is change
 
-i make changes from local repo
+i make changes from local repository
